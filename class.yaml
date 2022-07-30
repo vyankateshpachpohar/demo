@@ -1,0 +1,13 @@
+---
+courses:
+  course_name: "Devops engineer"
+  fees: 80,000
+  date of starting: 13/12/2021
+  organisation: Cloudblitz
+  pre_enroll: null
+  tags:
+    - Linux
+    - AWS
+    - Devops
+  mentors: ["Deepak", "Pritam", "Shubham"]
+...
